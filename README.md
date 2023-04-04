@@ -96,6 +96,5 @@ To search a specific database, use the command, select the optional field, and t
 
 <h1 align="center">🤝Contributing🤝</h1>
 
-- Feel free to Fork any repository, create a feature branch, and submit a pull request (make sure to check if there is a contributions guide and licensing before).
 - You can keep track of all the planned features [here](https://github.com/Zefira-bot/projects) or make a request for one at our [Discord](http://discord.gg/thelema).
 
