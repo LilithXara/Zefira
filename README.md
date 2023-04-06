@@ -98,3 +98,7 @@ To search a specific database, use the command, select the optional field, and t
 
 - You can keep track of all the planned features [here](https://github.com/Zefira-bot/projects) or make a request for one at our [Discord](http://discord.gg/thelema).
 
+  <a href="https://discords.com/bots/bots/1064675253202210957" >
+            <img src="https://discords.com/bots/api/bot/1064675253202210957/widget" title="Visit Zefira listed on Discords.com!" alt="Zefira's Widget Failed to Load" /></a>
+        
+
