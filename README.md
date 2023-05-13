@@ -6,6 +6,9 @@
   <br>
 </h1>
 
+[![GitHub Issues](https://img.shields.io/github/issues/LilithXara/Zefira.svg)](https://github.com/LilithXara/Zefira/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/LilithXara/Zefira.svg)](https://github.com/LilithXara/Zefira/stargazers)
+
 <p align="center">Zefira, the Mystical Guide to the Occult and Esoteric Wisdom. The most advanced and comprehensive discord bot dedicated to esoterica.</p>
 
 <br>
